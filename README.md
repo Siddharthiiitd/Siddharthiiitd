@@ -94,7 +94,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📡 NetraHz — mmWave Fall Detection</h4>
+      <h4>📡 <a href="https://github.com/glintingstellas/NetraHz">NetraHz mm Wave Radar</a></h4>
       <p>60GHz mmWave radar-based fall detection system using Isolation Forest, built for Qualcomm's "AI for All" challenge. Patent filing in progress via IIIT Delhi.</p>
       <p>
         <img src="https://img.shields.io/badge/-Signal%20Processing-333333?style=flat-square"/>
